@@ -1,4 +1,4 @@
-# Alaeddin Ebrahimi
+# Ala Ebrahimi
 
 ## Analytics Engineer | Data Modeller | BI Leader
 
