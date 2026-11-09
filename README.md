@@ -14,6 +14,8 @@
 - **Invoice check** lets you drop a PDF or a photo of an invoice. The text is read **in the browser** (pdf.js, plus tesseract.js OCR for photos and scans), so the invoice itself never leaves your device.
 - **Market Scout** is NDIS market research by council area, built from published NDIA data.
 
+📋 **Follow the build:** [TrueBlue Scout public launch board](https://github.com/users/Alaeddin-Ebrahimi/projects/8): what's shipped, what's next.
+
 **How it's built**
 
 | Layer | Tech |
@@ -69,7 +71,7 @@
 
 ## 📌 Featured Projects
 
-- **[TrueBlue Scout](https://truebluescout.com.au)** — live NDIS provider-check and market-research SaaS (Next.js, Supabase, Cloudflare, Python ingestion)
+- **[TrueBlue Scout](https://truebluescout.com.au)** — live NDIS provider-check and market-research SaaS (Next.js, Supabase, Cloudflare, Python ingestion). [Launch board](https://github.com/users/Alaeddin-Ebrahimi/projects/8)
 - **powerbi-report-server-smith** — Advanced Power BI reporting solutions and server configurations
 - Custom data models and dimensional schemas for enterprise analytics
 - MCP server implementations for data pipeline orchestration
